@@ -1,0 +1,21 @@
+.gametitle{
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgreen;
+}
+
+#game-app{
+    text-align:left;
+    margin:0 auto;
+    padding-top:10px; 
+    padding-left: 5px;
+    background:white;
+}
+
+.game-display-panel{
+    display: flex;
+    flex-direction:column;
+}
+.text-display{
+    font-weight: bold;
+}
